@@ -2,7 +2,7 @@
 
 AI Product Owner · AI Transformation Lead · AI Product Engineer
 
-Saratov, Russia · remote / hybrid
+Saratov, Russia · remote, hybrid or on-site with relocation
 
 I combine three roles: running a business — P&L and a team of up to 15–20 people since 2014; product work — my own AI products with live users; AI-first engineering — LLM systems in production.
 
