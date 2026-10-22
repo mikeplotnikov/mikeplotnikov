@@ -10,6 +10,6 @@ I combine three roles: running a business — P&L and a team of up to 15–20 pe
 - **"Live with Flowers! Florist".** A bookkeeping system for florists with AI at its core: scan an invoice instead of typing it. 100+ live users including corporate accounts, RuStore and App Store.
 - **Data parser.** Automatically updates the client's live Google Sheet — 326 of 327 objects in a 69.5-minute run. No LLM and no server of its own.
 - **artel.** A system for managing AI-driven development, built from scratch: spec → implementation → two independent reviews by models of different families → owner's decision.
-- **UnionPipe, St. Petersburg (current project).** Business-process audit, embedding AI into processes, optimization.
+- **B2B supplier of piping-system components, St. Petersburg (current project).** Business-process audit, embedding AI into processes, optimization.
 
 Website: https://mikeproject.dev · LinkedIn: https://www.linkedin.com/in/mikeplotnikov
