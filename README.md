@@ -12,4 +12,4 @@ I combine three roles: running a business — P&L and a team of up to 15–20 pe
 - **artel.** A system for managing AI-driven development, built from scratch: spec → implementation → two independent reviews by models of different families → owner's decision.
 - **B2B supplier of piping-system components, St. Petersburg (current project).** Business-process audit, embedding AI into processes, optimization.
 
-Website: https://mikeproject.dev · LinkedIn: https://www.linkedin.com/in/mikeplotnikov
+Website: https://mikeproject.dev · LinkedIn: https://www.linkedin.com/in/mikeplotnikov · Telegram channel: https://t.me/plotnikovmike
