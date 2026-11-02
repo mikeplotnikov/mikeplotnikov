@@ -1,6 +1,6 @@
 # Mikhail Plotnikov
 
-AI Product Owner · AI Transformation Lead · AI Product Engineer
+AI Product Owner · Head of AI · AI Transformation Lead
 
 Saratov, Russia · remote, hybrid or on-site with relocation
 
